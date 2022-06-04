@@ -1,5 +1,5 @@
 # cryptopals-python
-A collection of python codes for the cryptopals series.
+A collection of python codes for the [cryptopals series.](https://cryptopals.com/)
 
 ## Description:
   This repo contains the collection of all the python codes (along with the text files provided in the question) I wrote to solve the cryptopals series.
