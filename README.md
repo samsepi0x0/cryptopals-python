@@ -18,5 +18,5 @@ If you've written any crypto code in the past, you're going to feel like skippin
   | 1.| Convert hex to base64 | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code1.py) |
   | 2.| Fixed XOR | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code2.py) |
   | 3.| Single-byte XOR cipher | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code3.py) |
-  | 4.| Detect single-character XOR | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code4.py), [TXT File](https://github.co/samsepi0x0/cryptopals-python/blob/main/SET_1/4.txt) |
+  | 4.| Detect single-character XOR | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code4.py), [TXT](https://github.co/samsepi0x0/cryptopals-python/blob/main/SET_1/4.txt) |
   | 5.| Implement repeating-key XOR | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code5.py) |
