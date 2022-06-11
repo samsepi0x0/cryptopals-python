@@ -20,4 +20,4 @@ If you've written any crypto code in the past, you're going to feel like skippin
   | 3.| Single-byte XOR cipher | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code3.py) |
   | 4.| Detect single-character XOR | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code4.py), [TXT](https://github.co/samsepi0x0/cryptopals-python/blob/main/SET_1/4.txt) |
   | 5.| Implement repeating-key XOR | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code5.py) |
-  | 6.| Break repeating-key XOR | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code5.py), [TXT](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/6.txt) |
+  | 6.| Break repeating-key XOR | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code6.py), [TXT](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/6.txt) |
