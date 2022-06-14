@@ -3,7 +3,7 @@ A collection of python codes for the [cryptopals series.](https://cryptopals.com
 
 ## Description:
   This repo contains the collection of all the python codes (along with the text files provided in the question) I wrote to solve the cryptopals series.
-  So far I have solved the initial challenges of SET 1. The file structure will update according to the status of the challenges solved.
+  Now that SET 1 is complete, I will be starting SET 2 soon. The file structure will update according to the status of the challenges solved.
   
   
 ### SET 1:
