@@ -21,3 +21,5 @@ If you've written any crypto code in the past, you're going to feel like skippin
   | 4.| Detect single-character XOR | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code4.py), [TXT](https://github.co/samsepi0x0/cryptopals-python/blob/main/SET_1/4.txt) |
   | 5.| Implement repeating-key XOR | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code5.py) |
   | 6.| Break repeating-key XOR | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code6.py), [TXT](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/6.txt) |
+  | 7.| AES in ECB mode | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code7.py), [TXT](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/7.txt) |
+  | 8.| Detect AES in ECB mode | [Link](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/code8.py), [TXT](https://github.com/samsepi0x0/cryptopals-python/blob/main/SET_1/8.txt) |
